@@ -10,6 +10,12 @@ body {
     height: 400px;
 }
 
+.centrar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .link-button {
     text-decoration: none;
     color: black;
