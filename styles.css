@@ -5,7 +5,8 @@ body {
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px rgb(68, 68, 206);
+    border-style: double solid dotted dashed;
     border-radius: 10px;
     height: 400px;
 }
