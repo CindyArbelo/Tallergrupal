@@ -18,7 +18,14 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    position: absolute;
+    margin-left: 50%;
 }
 h1:hover{
     color:aqua;
 };
+
+p {
+    text-align: center;
+    justify-content: center;
+}
